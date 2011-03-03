@@ -1,0 +1,114 @@
+@CHARSET "UTF-8";
+
+body{
+	position:relative;
+	background-color: #333300;
+	background-image:url(background.jpg);
+	font-family: arial, helvetica, san_serif;
+	margin:0px;
+}
+
+#wrapper
+{
+	postion:relative;
+	background-color: #CCCC66;
+	width:680px;
+	margin:auto;
+	margin-top:30px;
+	padding-bottom:1px;
+}
+
+#content
+{
+	
+	background-color:#666600;
+	margin:5px;
+	padding:5px;
+	width:661px;
+	min-height:400px;
+}
+
+#topbanner{
+	position:relative;
+	margin:0px;
+}
+	
+.box{
+	background-color: #999900;
+	margin:20px;
+}
+	
+#register{
+	float:left;
+}
+
+#login{
+	position:absolute;
+	right:0px;
+	top:16px;
+	height:45px;
+	width:225px;
+	margin:5px;
+	font-size:12px;
+}
+
+#account{
+	position:absolute;
+	right:0px;
+	top:50px;
+	height:45px;
+	width:225px;
+	margin:5px;
+}
+
+#title{
+	margin:0px;
+}
+
+a img{
+	border:0px;
+}
+
+#message{
+	background-color: #FFFFCC;
+	border: 1px;
+	height:25px;
+	margin-left:0px;
+	margin-top:0px;
+	margin-bottom:-26px;
+	margin-right:0px;
+	padding-left:10px;
+	border-bottom-style:solid;
+	border-width:1px;
+	text-align:center;
+}
+
+.tweet
+{
+	border-bottom-style:solid;
+	border-width:1px;
+}
+
+.quote
+{
+}
+
+.quoteInfo
+{
+	font-size:12px;
+}
+
+#followLink
+{
+	
+}
+
+#frontPageQuote
+{
+	
+}
+
+h1
+{
+	margin-bottom:0px;
+}
